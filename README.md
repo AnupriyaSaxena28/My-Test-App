@@ -1,18 +1,17 @@
-# My-Test-App
-A mobile app to manage Tasks, Schedule, and Notes.  
+# flutter_assignment1
 
-🧩 Features 
+A new Flutter project.
 
-BottomNavigationBar → Tasks | Schedule | Notes 
+## Getting Started
 
-Tasks (ListView) 
+This project is a starting point for a Flutter application.
 
-1: Add task (Form with date &amp; time picker) 
+A few resources to get you started if this is your first Flutter project:
 
-2: Mark complete (tap) 
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-3: Delete task 
-
-Schedule (TabBar) -> Today | Upcoming 
-
-Notes (GridView) Show notes in grid  
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
